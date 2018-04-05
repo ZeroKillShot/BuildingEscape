@@ -1,14 +1,13 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
-*.VC.db
-*.opensdf
-*.opendb
-*.sdf
-*.sln
-*.suo
-*.xcodeproj
-*.xcworkspace
+########################
+#UNREAL GENERATED FILES#
+########################
+*/BUILD
+*/BINARIES
+*/DERIVEDDATACACHE
+*/SAVED
+BUILDINGESCAPE/CONTENT/STARTERCONTENT/
+
+###############################
+#VISUAL STUDIO GENERATED FILES#
+###############################
+*.VC.DB
